@@ -1,2 +1,2 @@
 # kapootProjec
-design By @amir-mohammadzade api/backend/db By @davoudaghapour
+design By @amir-mohammadzadeh api/backend/db By @davoudaghapour
